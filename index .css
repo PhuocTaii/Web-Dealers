@@ -27,12 +27,8 @@ header{
     margin: auto;
     display: flex;
     gap: 6.25rem;
-}
-
-header .header-left{
     padding-top: 2.875rem;
 }
-
 
 header .header-left .menu{
     display: flex;
@@ -65,7 +61,6 @@ header .header-left .menu .details{
     font-weight: bold;
     font-family: Helvetica;
     padding-right: 15px;
-
 }
 
 header .header-left .menu .mail{ 
@@ -73,11 +68,6 @@ header .header-left .menu .mail{
     height: 11px;
     display: flex;
 }
-
-header .header-right{
-    padding-top: 3.125rem;
-}
-
 
 header .header-right .singup{
     display: flex;
